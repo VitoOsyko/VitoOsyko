@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://vitoosyko.github.io/">
-    <img src="https://img.shields.io/badge/My site-blue?style=for-the-badge&logo=internet&logoColor=white" alt="My site Badge"/>
+    <img src="https://img.shields.io/badge/My CV-blue?style=for-the-badge&logo=internet&logoColor=white" alt="My CV Badge"/>
   </a>
 </div>
 <div id="badges" align="center">
