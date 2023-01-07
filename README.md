@@ -23,17 +23,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-<!--
-**VitoOsyko/vitoosyko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### :man_technologist: About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, my name’s Vitaly and I’m a QA Engeneer. <img src="https://media.giphy.com/media/BwGl1QLQmFN6IY8qI1/giphy.gif" width="30">
+
+- :trophy: Results-driven and strong attention-to-detail
+
+- :seedling: Constantly learning and improving my skills
+
+- :zap: Unfortunately, I did not get inherited estates and capitals, therefore I am devilishly hardworking!
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MyLinkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitaly-osyko-09248a247/)
