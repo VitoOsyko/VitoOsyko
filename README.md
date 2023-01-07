@@ -28,10 +28,6 @@
 
 Hi, my name’s Vitaly and I’m a QA Engeneer. <img src="https://media.giphy.com/media/BwGl1QLQmFN6IY8qI1/giphy.gif" width="30">
 
-- :trophy: Results-driven and strong attention-to-detail
+Results-driven and strong attention-to-detail. Passionate about testing software applications. Unfortunately, I did not get inherited estates and capitals, therefore I am devilishly hardworking! Ability to learn quickly, often under high deadlines, to fully understand a new product or platform. Great problem solving skills and ability to perform work well in a team. I have experience in commercial projects where I have acquired teamwork and leadership skills. I know 4 words in French and 2 in Spanish (not counting the numbers)
 
-- :seedling: Constantly learning and improving my skills
-
-- :zap: Unfortunately, I did not get inherited estates and capitals, therefore I am devilishly hardworking!
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MyLinkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitaly-osyko-09248a247/)
+I am most skilled in: Bug localization :bug: and Eating Pizza :pizza:
