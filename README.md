@@ -25,9 +25,13 @@ Results-driven and strong attention-to-detail. Passionate about testing software
 I am most skilled in: Bug localization :bug: and Eating Pizza :pizza:
 ---
 
-### :hammer_and_wrench: Hard skills:
+<div id="badges" align="center">
+:hammer_and_wrench: Hard skills :hammer_and_wrench:
+</div>
 
-<div>
+ 
+ 
+<div id="badges" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="ChromeDevTools" alt="DevTools" width="40" height="40"/>&nbsp;
   <img src="https://github.com/VitoOsyko/VitoOsyko/blob/main/image/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/VitoOsyko/VitoOsyko/blob/main/image/fiddler-icon-qo9ovvwn6bktbty1-c.png" title="Fiddler" alt="Fiddler" width="40" height="40"/>&nbsp;
@@ -42,6 +46,13 @@ I am most skilled in: Bug localization :bug: and Eating Pizza :pizza:
   <img src="https://github.com/VitoOsyko/VitoOsyko/blob/main/image/pngegg.png" title="1C" **alt="1C" width="40" height="40"/>
 </div>
 
-### :fire: My Stats:
 
+<div id="badges" align="center">
+  
+:fire: My Stats :fire:
+
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VitoOsyko&theme=dark&hide_border=true&border_radius=5&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VitoOsyko&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
