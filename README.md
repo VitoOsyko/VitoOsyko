@@ -22,7 +22,10 @@
 
 Results-driven and strong attention-to-detail. Passionate about testing software applications. Unfortunately, I did not get inherited estates and capitals, therefore I am devilishly hardworking! Ability to learn quickly, often under high deadlines, to fully understand a new product or platform. Great problem solving skills and ability to perform work well in a team. I have experience in commercial projects where I have acquired teamwork and leadership skills. I know 4 words in French and 2 in Spanish (not counting the numbers)
 
+<div id="badges" align="center">
 I am most skilled in: Bug localization :bug: and Eating Pizza :pizza:
+</div>
+
 ---
 
 <div id="badges" align="center">
