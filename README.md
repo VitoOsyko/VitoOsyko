@@ -17,12 +17,8 @@
     <img src="https://komarev.com/ghpvc/?username=VitoOsyko&style=flat-square&color=blue" alt="GitHub Bage"/>
 </div>
 <div id="badges" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=D1DEE9&center=true&vCenter=true&width=430&lines=Hi!+My+name%E2%80%99s+Vitaly+Osyko;I%E2%80%99m+a+QA+Engeneer;I+very+glad+to+see+you+on+my+GitHub" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=600&pause=800&color=CCCCCC&center=true&vCenter=true&width=455&height=60&lines=Hi!+My+name%E2%80%99s+Vitaly+Osyko;I%E2%80%99m+a+QA+Engineer;I'm+very+glad+to+see+you+on+my+GitHub;I+strive+to+work+on+my+repositories;Every+day;To+make+my+portfolio;look+attractive+to+you" alt="Typing SVG" /></a>
 </div>
-
-### :man_technologist: About Me:
-
-Hi, my name’s Vitaly and I’m a QA Engeneer. <img src="https://media.giphy.com/media/BwGl1QLQmFN6IY8qI1/giphy.gif" width="30">
 
 Results-driven and strong attention-to-detail. Passionate about testing software applications. Unfortunately, I did not get inherited estates and capitals, therefore I am devilishly hardworking! Ability to learn quickly, often under high deadlines, to fully understand a new product or platform. Great problem solving skills and ability to perform work well in a team. I have experience in commercial projects where I have acquired teamwork and leadership skills. I know 4 words in French and 2 in Spanish (not counting the numbers)
 
