@@ -16,12 +16,8 @@
 <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=VitoOsyko&style=flat-square&color=blue" alt="GitHub Bage"/>
 </div>
-</div>
 <div id="badges" align="center">
-<h1>
-  Glad to see you
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=D1DEE9&center=true&vCenter=true&width=430&lines=Hi!+My+name%E2%80%99s+Vitaly+Osyko;I%E2%80%99m+a+QA+Engeneer;I+very+glad+to+see+you+on+my+GitHub" alt="Typing SVG" /></a>
 </div>
 
 ### :man_technologist: About Me:
