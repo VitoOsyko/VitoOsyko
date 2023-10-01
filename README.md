@@ -53,5 +53,5 @@ I am most skilled in: Bug localization :bug: and Eating Pizza :pizza:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VitoOsyko&theme=dark&hide_border=true&border_radius=5&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VitoOsyko&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
